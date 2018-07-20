@@ -1,0 +1,22 @@
+### Pycharm ###
+.idea/
+
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+media/
+
+# dotenv
+.env
+
+### Virtual Env ###
+venv/
+
+### macOS ###
+*.DS_Store
+.AppleDouble
+.LSOverride
